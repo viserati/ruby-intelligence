@@ -2,4 +2,4 @@
 
 Time, Array, Sanitation_Consultant
 
-EmpreStateBuilding = "350 5th Avenue NYC, NY"
+EmpireStateBuilding = "350 5th Avenue NYC, NY"
