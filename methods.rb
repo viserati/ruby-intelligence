@@ -1,5 +1,8 @@
-# Methods are actions, like a verb they do something. They are usually attached to the
-# end of variables and constants with a dot. These are instance methods.
+=begin
+Methods are actions, like a verb they do something. They are usually attached to the
+end of variables and constants with a dot. These are instance methods.
+=end
+
 
 front_door.open
 

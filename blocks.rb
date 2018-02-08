@@ -1,5 +1,7 @@
-# Blocks group a set of instructions together so they can be passed arround in
-# your program. The code inside the curly braces { } is acts as a single unit.
+=begin
+Blocks group a set of instructions together so they can be passed arround in
+your program. The code inside the curly braces { } is acts as a single unit.
+=end
 
 2. times {print "Yes, Anthony Jr. is going to school."}
 

@@ -1,6 +1,8 @@
-# A hash is a dictionary surrounded by curly braces. Dictionaries match words
-# with their definitions. Ruby does so with a hash rocket =>.
-# Unlike arrays, the items in a hash are not kept in a specific order.
+=begin
+A hash is a dictionary surrounded by curly braces. Dictionaries match words
+with their definitions. Ruby does so with a hash rocket =>.
+Unlike arrays, the items in a hash are not kept in a specific order.
+=end
 
 {key => value} # Think key/value pair.
 
