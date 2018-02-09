@@ -1,3 +1,5 @@
+# This is practice file (sandbox) for testing out Ruby code.
+
 5.times { puts "Amazing"}
 
 ['toast', 'cheese', 'wine'].each { |food| print( food.capitalize ) }
