@@ -13,7 +13,7 @@ end
                               Reading Code
 
 Find some Ruby code to read. You should be reading any Ruby code you can and
-trying to steal ideas that you find. You actually should have enough knowledge 
+trying to steal ideas that you find. You actually should have enough knowledge
 to be able to read but maybe not understand what the code does. What this
 lesson teaches is how to apply things you have learned to understand other
 people's code.
@@ -43,3 +43,23 @@ read it again to see if you find new things. Keep finding more code and doing
 this until you do not need the printouts anymore.
 
 =end
+
+# Q & A Program :::::
+
+print "What's your first name? "
+first_name = gets.chomp
+first_name.capitalize!
+
+print "What's your last name? "
+last_name = gets.chomp
+last_name.capitalize!
+
+print "What city are you from? "
+city = gets.chomp
+city.capitalize!
+
+print "What state or province are you from? "
+state = gets.chomp
+state.upcase!
+
+puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"

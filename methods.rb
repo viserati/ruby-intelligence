@@ -1,7 +1,10 @@
 =begin
-  Methods are actions, like a verb they do something. They are usually attached
-  to the end of variables and constants with a dot. These are instance methods.
+  Because everything in Ruby is and object, everything in Ruby has certain built
+  in abilities called methods. Methods are actions, like a verb they do something.
+  They are usually attached to the end of variables and constants with a dot.
+  These are instance methods. Think of method as skills.
 =end
+
 
 
 front_door.open
