@@ -1,6 +1,6 @@
 =begin
-Methods are actions, like a verb they do something. They are usually attached to the
-end of variables and constants with a dot. These are instance methods.
+  Methods are actions, like a verb they do something. They are usually attached
+  to the end of variables and constants with a dot. These are instance methods.
 =end
 
 
@@ -14,12 +14,16 @@ front_door.open.close
 
 front_door.is_open?
 
-# Method Arguments are attached to the end of a method. Thehe arguments are usually
-# surrounded by parentheses and separated by commas.
+=begin
+  Method Arguments are attached to the end of a method. Thehe arguments are usually
+  surrounded by parentheses and separated by commas.
+=end
 
 front_door.paint (3, :red)
 
-# Class Methods are usually attached after variables and constants. Rather than
-# a dot . they use a double colon ::
+=begin
+  Class Methods are usually attached after variables and constants. Rather than
+  a dot . they use a double colon ::
+=end
 
 Door::new (:oak)
