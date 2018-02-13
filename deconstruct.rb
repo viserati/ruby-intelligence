@@ -1,6 +1,9 @@
+# Deconstruct: The code should break apart into manageable pieces.
+
+
+
 =begin
-  Practice breaking code down into its parts and understanding what each part does.
-  The code should break apart into manageable pieces.
+  Practice breaking code down into its parts and understanding what each part does.  
    1  Write out the line(s) of code.
    2  Write out explanation of what each part is and what it does in your own words.
    3  Read aloud the explanations.
