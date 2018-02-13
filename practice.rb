@@ -13,10 +13,7 @@ end
                               Reading Code
 
 Find some Ruby code to read. You should be reading any Ruby code you can and
-trying to steal ideas that you find. You actually should have enough knowledge
-to be able to read but maybe not understand what the code does. What this
-lesson teaches is how to apply things you have learned to understand other
-people's code.
+trying to steal ideas that you find.
 
 First, print out the code you want to understand. Yes, print it out, because
 your eyes and brain are more used to reading paper than computer screens. Make sure you print a few pages at a time.
