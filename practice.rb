@@ -44,7 +44,7 @@ this until you do not need the printouts anymore.
 
 =end
 
-# Q & A Program :::::
+# Q & A Program ::::
 
 print "What's your first name? "
 first_name = gets.chomp
