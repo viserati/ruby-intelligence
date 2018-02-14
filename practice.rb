@@ -60,3 +60,26 @@ state = gets.chomp
 state.upcase!
 
 puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"
+
+# Another way to think about Ruby:
+
+blue_crystal = 1
+leaf_tender = 5
+
+=begin
+Now leaf_tender represents the number 5 (as in: five blue crystals.) This concept
+right here is half of Ruby. We’re defining. We’re creating. This is half of the
+work. Assignment is the most basic form of defining.
+=end
+
+
+pipe.catch_a_star
+
+=begin
+Variable pipe. Method catch_a_star. A lot of Rubyists like to think of methods as a message. Whatever comes before the dot is handed the message. The above code tells the pipe to catch_a_star.
+This is the second half of Ruby. Putting things in motion. These things you define and create in the first half start to act in the second half.
+1. Defining things.
+2. Putting those things into action.
+=end
+
+captive_star = pipe.catch_a_star
