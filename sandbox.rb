@@ -11,9 +11,9 @@ Use the each method of Array to iterate over [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
 and print out each value.
 =end
 
-artist = ["Picasso", "Pollack", "Miro"]
+arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-# multi-line version
-artist.each do |person|
-  puts "#{person} is a painter."
+
+arr.each do |number|
+  puts number
 end
