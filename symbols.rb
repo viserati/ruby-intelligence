@@ -5,3 +5,11 @@ to the screen.
 =end
 
 :a, :brave, :ponce_de_leon
+
+=begin
+Examples of symbols- Symbols are used when you want to reference something like
+a string but you dont ever intend to print it to the screen.
+=end
+
+:name
+:a_symbol
