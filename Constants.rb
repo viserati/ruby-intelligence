@@ -1,5 +1,6 @@
-# Constants are like variables but constants are Capitalized.
+# Constants are like variables but constants are Capitalized. Constants are
+# declared by capitalizing every letter in the variable's name.
 
-Time, Array, Sanitation_Consultant
+BEAT, COMPOSITION, DYNAMIC_LAYER
 
-EmpireStateBuilding = "350 5th Avenue NYC, NY"
+EMPIRE_STATE_BUILDING = "350 5th Avenue NYC, NY"

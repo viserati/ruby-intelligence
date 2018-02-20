@@ -1,0 +1,9 @@
+These are good quiz questions:
+
+
+
+VARIABLES
+
+1. What are the 5 types of variables in Ruby?
+
+2. What does each do?

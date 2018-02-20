@@ -13,7 +13,7 @@ gratuity = 0.10
 
 # Global Variables begin with a dollar sign $ and are the same in across every
 # instance. Global variables can be used anywhere in your program. They never
-# go out of sight.
+# go out of sight. STAY AWAY FROM GLOBAL VARIABLES !!!
 
 $dad = Bob # The same dad named Bob in every house.
 
