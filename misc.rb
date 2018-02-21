@@ -1,8 +1,9 @@
-puts "What's your first name?"
-f_name = gets.chomp
 
-puts "What's your last name?"
-l_name = gets.chomp
+def say(words='hello')
+  puts words + '.'
+end
 
-
-puts f_name ' ' + l_name
+say()
+say("hi")
+say("how are you")
+say("I'm fine")

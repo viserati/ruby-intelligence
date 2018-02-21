@@ -30,3 +30,16 @@ front_door.paint (3, :red)
 =end
 
 Door::new (:oak)
+
+# This is a method definition with a default parameter- defining a method.
+
+def say(words='hello')
+  puts words + '.'
+end
+
+# This is a method call- calling a menthod.
+
+say()
+say("hi")
+say("how are you")
+say("I'm fine")
