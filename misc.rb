@@ -1,7 +1,9 @@
 
-def greeting (name)
-  puts name
+
+
+def multiply
+  puts 6 * 7
 end
 
 
-greeting("Jim")
+multiply
