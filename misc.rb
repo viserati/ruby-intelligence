@@ -1,9 +1,7 @@
 
-def say(words='hello')
-  puts words + '.'
+def greeting (name)
+  puts name
 end
 
-say()
-say("hi")
-say("how are you")
-say("I'm fine")
+
+greeting("Jim")
