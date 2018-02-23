@@ -1,9 +1,7 @@
 
-
-
-def multiply
-  puts 6 * 7
+def scream(words)
+  words = words + "!!!!"
+  puts words
 end
 
-
-multiply
+scream("Yippeee")
