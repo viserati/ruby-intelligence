@@ -7,3 +7,5 @@ VARIABLES
 1. What are the 5 types of variables in Ruby?
 
 2. What does each do?
+
+3. Write a method that takes an argument.
